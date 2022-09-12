@@ -3,7 +3,7 @@
 main(){
 	int i,j,n;
 	char str[100][100],s[100];
-	printf("enter names in any order: \n");
+	printf("enter number of words : \n");
 	scanf("%d",&n);
 	printf("enter names in any order;\n");
 	for(i=0;i<n;i++){
