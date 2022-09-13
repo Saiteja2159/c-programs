@@ -33,3 +33,21 @@ int main()
 	else{	
 	printf("\ninvaild input");}
 }
+
+
+
+            TEST CASE
+	    enter the number of rows=2
+	    enter the number of columns= 2
+
+	    ENTER VALUES FOR MATRIX A:
+            1 2
+            5 3
+
+ 	    values in secound matrix;
+            2 3
+            4 1
+
+            THE VALUES OF MATRIX C ARE:
+            10    5
+            22   18
