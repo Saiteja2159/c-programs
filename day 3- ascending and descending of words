@@ -45,3 +45,32 @@ int main()
 		
 	
 	
+	
+	TEST CASE 
+	enter number of names: 5
+        enter names:
+	ball
+	apple
+	kim
+	dog
+	zayn
+
+	1.ascending order
+	2.descending order
+
+	Enter your choice : 1
+	
+	ORDERED NAMES:
+	apple
+	ball
+	dog
+	kim
+	zayn	
+	Enter your choice : 2
+	ORDERED NAMES:
+	zayn
+	kim
+	dog
+	ball
+	apple
+
